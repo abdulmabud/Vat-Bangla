@@ -1,0 +1,112 @@
+.vatlogo{
+    position: relative;
+    width: 106% !important;
+    top: 26%;
+    left: 0%;
+}
+.custmenu{
+    padding: 0px;
+}
+.header{
+    background-color: #fff;
+}
+
+@media(min-width: 776px) {
+    .navbar {
+        background-color: #fff !important;
+    }
+
+    .navbar-nav {
+        display: table;
+        width: 100%;
+        margin: 0;
+    }
+
+    .navbar-nav>li {
+        float: none;
+        display: table-cell;
+        text-align: center;
+    }
+
+    #collapsibleNavId>ul>li>a {
+        padding: 8px 0px;
+        color: white !important;
+    }
+
+    #collapsibleNavId>ul>li>a:hover {
+        background-color: #00BCFF;
+        color: white !important;
+
+    }
+
+    .navbar {
+        padding: 0px;
+    }
+
+    /* .navbar-nav a:hover{
+        background-color: #ffffff;
+        color: #000000;
+    } */
+
+body{
+    background-color: #f4f4f4;
+}
+
+.mobileh, .emailh{
+    font-size: 90%;
+    font-weight: 600;
+}
+
+}
+
+/* form */
+input[type="text"], input[type="email"], textarea{
+    margin-bottom: 8px;
+}
+/* reqeust quote  */
+#quote{
+    background-image: url(''); 
+}
+
+/* contact us  */
+#contact-us{
+    /* background-image: url('../image/map.PNG'); */
+}
+
+
+
+/* style for two line navbar manage and logo position setup */
+/* 
+.navbar-default.nav-top ul {
+  display: inline-block;
+  float: right;
+}
+.navbar-default ul.navbar-top li {
+  float: left;
+  font-size: 11px;
+}
+.navbar-brand {
+  margin: -40px;
+} */
+
+
+/* css for footer */
+.page-footer {
+    background-color: #343538;
+    color: white;
+}
+
+.footer-copyright {
+    background-color: #444546;;
+    color: white;
+}
+
+/* end footer */
+
+/* start contact form */
+.contact-form{
+    border-radius: 3%;
+    
+}
+
+/* end contact form  */
