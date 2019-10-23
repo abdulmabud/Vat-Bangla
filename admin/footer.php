@@ -16,6 +16,8 @@
       $("#wrapper").toggleClass("toggled");
     });
   </script>
+  <script src="https://cdn.ckeditor.com/4.13.0/full-all/ckeditor.js"></script>
+    <script src="../admin/js/custom.js"></script>
 
 </body>
 

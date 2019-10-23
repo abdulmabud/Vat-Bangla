@@ -1,3 +1,4 @@
+<?php include 'databaseC.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
