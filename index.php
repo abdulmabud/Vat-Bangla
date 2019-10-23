@@ -4,11 +4,11 @@
         <ol class="carousel-indicators">
             <li data-target="#carouselId" data-slide-to="0" class="active"></li>
             <li data-target="#carouselId" data-slide-to="1"></li>
-            <li data-target="#carouselId" data-slide-to="2"></li>
+            <!--<li data-target="#carouselId" data-slide-to="2"></li>-->
         </ol>
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-                <img src="image/slider/web-design-responsive-header.jpg" alt="First slide" width="100%" height="380px">
+                <img src="image/slider/VAT BANGLA  BANNER 1.jpg" alt="First slide" width="100%" height="380px">
                 <div class="carousel-caption d-none d-md-block">
 
                 </div>
@@ -19,12 +19,12 @@
 
                 </div>
             </div>
-            <div class="carousel-item">
-                <img src="image/slider/VAT BANGLA  BANNER 1.jpg" alt="Third slide" width="100%" height="380px">
-                <div class="carousel-caption d-none d-md-block">
+            <!--<div class="carousel-item">-->
+            <!--    <img src="image/slider/VAT BANGLA  BANNER 1.jpg" alt="Third slide" width="100%" height="380px">-->
+            <!--    <div class="carousel-caption d-none d-md-block">-->
 
-                </div>
-            </div>
+            <!--    </div>-->
+            <!--</div>-->
 
 
         </div>
@@ -45,14 +45,7 @@
                     Bangla</span></h2>
         </div>
         <div data-aos="fade-right" data-aos-duration="3000">
-            <p class="text-justify" style="font-family: 'Montserrat', sans-serif;">Lorem ipsum dolor sit amet
-                consectetur adipi elit. At iure quam praesentium eum, quis cum error fugit est sit cumque omnis vitae
-                deleniti. Et, esse ipsa! Voluptates voluptatem at error similique itaque eos modi consequatur tempore
-                unde libero. Inventore, non? Reiciendis veniam, repellat, aperiam cum eligendi cupiditate doloremque
-                tenetur veritatis nemo reprehenderit quasi rem explicabo eaque dolorem, libero amet sequi? Incidunt
-                nulla, nam eligendi praesentium sapiente temporibus quam ex totam tenetur facere? Atque iure ab maiores
-                tempora facilis dignissimos odio ullam in sit ratione officia dolorem voluptates cum, voluptatibus
-                expedita provident excepturi est cumque molestias inventore! Quidem dolores dolor eaque!</p>
+            <p class="text-justify px-3" style="font-family: 'Montserrat', sans-serif;"> <span> WEBNS Technology Ltd is a leading, highly innovative software house, systems integrator and technology provider, established to provide leading edge intelligent Business solutions and consulting services to businesses, organizations in order to allow the efficient and effective secure access and communication with various heterogeneous information resources and services, anytime and anywhere. </span> <br> <span class="mt-2"> WEBNS Technology Ltd. Has developed the VATBangla Software System for keeping keen eyes all type of NBR rules & regulations. A strong & experienced Software Developer team with Database Administrator are directly involved at development phase of VATBangla software System.  Two more experience VAT consultant also directly supervised our developer & validated the system to comply NBR rules. </span> </p>
         </div>
     </div>
 </section>
@@ -129,19 +122,6 @@
     </div>
 </section>
 
-<!-- our client list  -->
-<section>
-    <div class="container">
-        <div class="text-center">
-            <h2 class="text-primary pb-2"><span style="font-family: 'Carter One', cursive;">Our Client</span></h2>
-        </div>
-        <div>
-            
-        </div>
-        
-
-    </div>
-</section>
 
 <!-- contact section -->
 <section id="contact-us">

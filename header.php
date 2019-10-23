@@ -6,7 +6,6 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="image/icon logo vat bangla.png">
     <!-- animation css -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
@@ -80,10 +79,10 @@
         </div>
         <div class="col-md-10 custmenu">
 
-            <div class="row ">
+            <div class="row mt-3">
                 <div class="col-md-6"></div>
                 <div class="col-md-3">
-                <p class="mb-0 pl-5 mobileh"><i class="fa fa-phone-square" aria-hidden="true"></i> 880 1988 000 800</p>
+                <p class="mb-0 pl-5 mobileh"><i class="fa fa-phone-square" aria-hidden="true"></i> 880 1844 000 800</p>
                     
                 </div>
                 <div class="col-md-3">
@@ -101,7 +100,7 @@
                     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
 
                         <li class="nav-item">
-                            <a class="nav-link text-light smenu " href="#about">About Vat Bangla</a>
+                            <a class="nav-link text-light smenu " href="#about">About</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-light" href="#why">Why Vat Bangla</a>
@@ -111,15 +110,15 @@
                             <a class="nav-link text-light dmenu1 " href="#quote">Request Quote</a>
                         </li>
 
-                        <!-- <li class="nav-item">
+                        <li class="nav-item">
                             <a class="nav-link text-light smenu " href="#">Notice Board</a>
-                        </li> -->
-                        <li class="nav-item ">
-                            <a class="nav-link text-light smenu " href="#client">Our Client</a>
                         </li>
-                        <!-- <li class="nav-item ">
+                        <li class="nav-item ">
+                            <a class="nav-link text-light smenu " href="#">Our Client</a>
+                        </li>
+                        <li class="nav-item ">
                             <a class="nav-link text-light dmenu2 " href="#">Graphical View</a>
-                        </li> -->
+                        </li>
                         <li class="nav-item ">
                             <a class="nav-link text-light smenu " href="#contact-us">Contact Us</a>
                         </li>
