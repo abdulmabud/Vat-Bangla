@@ -9,7 +9,7 @@
     $sql = "INSERT INTO page_content(page_title, page_no, content) VALUES('$page_title', '$page_no', '$content')";
     
     if($conn->query($sql) === true){
-        echo 'Inserted Successfully';
+        echo 'Page Created Successfully';
     }
     
 }

@@ -57,15 +57,7 @@
         </div>
         <div class="row">
             <div class="col-md-7" data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" data-aos-duration="1000">
-                <p class="text-justify" style="font-family: 'Montserrat', sans-serif;">Lorem ipsum dolor sit amet,
-                    consectetur adipisicing elit. Rem quibusdam repellendus amet. Quidem veniam fuga voluptas laboriosam
-                    qui nisi vel iste nobis, accusamus est dolor rerum cum aliquid sapiente ipsa. Lorem ipsum dolor sit
-                    amet consectetur adipisicing elit. Saepe distinctio porro natus soluta, sapiente eaque provident
-                    ipsa enim iure. Odit illo harum dolor eaque aut quasi iste ad doloremque ex neque voluptaharum dolor
-                    eaque aut quasi iste ad doloremque ex neque voluptas nemo accusamus modi atque, explicabo
-                    consectetur dolorem in perspiciatis at tenetur hic laboriosam eos ratione. at tenetur hic laboriosam
-                    eos ratione. at tenetur hic laboriosam eos ratione. at tenetur hic laboriosam eos ratione. Ullam,
-                    earum impedit!</p>
+                <p class="text-justify" style="font-family: 'Montserrat', sans-serif;"></p>
             </div>
             <div class="col-md-5" data-aos="zoom-in">
                 <img src="image/why.JPG" alt="" width="100%">
@@ -112,9 +104,9 @@
                         <h2 class="text-primary pb-2"><span style="font-family: 'Carter One', cursive;">About Request Quote</span></h2>
                     </div>
                     <div class="text-left" style="font-family: 'Montserrat', sans-serif;" data-aos="fade-top" data-aos-duration="3000">
-                        <p>1. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aut quo, incidunt voluptates repudiandae ex.</p>
+                        <!-- <p>1. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aut quo, incidunt voluptates repudiandae ex.</p>
                         <p>2. Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolore itaque eveniet? Cupiditate incidunt odit quia! Est quia aliquid blanditiis earum quasi quam, temporibus maiores consequuntur dolore labore, sapiente pariatur?</p>
-                        <p>3. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi in, corrupti ducimus sit nam magnam vel et rem quidem repellendus!</p>
+                        <p>3. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi in, corrupti ducimus sit nam magnam vel et rem quidem repellendus!</p> -->
                     </div>
                 </div>
             </div>

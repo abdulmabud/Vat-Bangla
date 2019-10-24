@@ -1,3 +1,4 @@
+<?php include 'admin/databaseC.php'; ?>
 <!doctype html>
 <html lang="en">
 
@@ -117,7 +118,7 @@
                             <a class="nav-link text-light smenu " href="#">Our Client</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link text-light dmenu2 " href="#">Graphical View</a>
+                            <a class="nav-link text-light dmenu2 " href="user-manual.php">User Manual</a>
                         </li>
                         <li class="nav-item ">
                             <a class="nav-link text-light smenu " href="#contact-us">Contact Us</a>

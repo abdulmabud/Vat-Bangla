@@ -25,7 +25,7 @@
 
     <!-- Sidebar -->
     <div class="bg-light border-right" id="sidebar-wrapper">
-      <div class="sidebar-heading">VatBangla Admin Panel </div>
+      <div class="sidebar-heading"><a href="../admin/" class="text-decoration-none text-dark">VatBangla Admin Panel</a></div>
       <div class="list-group list-group-flush">
         <a href="../admin/" class="list-group-item list-group-item-action bg-light">Home</a>
         <a href="../admin/user-manual.php" class="list-group-item list-group-item-action bg-light">User Manual</a>

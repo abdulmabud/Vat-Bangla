@@ -27,7 +27,7 @@
 
         <ul class="list-unstyled">
           <li>
-            <a href="http://nbr.gov.bd" target="_blank">nbr.gov.bd</a>
+            <a href="http://nbr.gov.bd" target="_blank">NBR Website</a>
           </li>
 
           <li>
