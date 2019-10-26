@@ -2,11 +2,12 @@
 <?php if(isset($_POST['savePage'])){
     var_dump($_POST);
     $page_title = $_POST['pageTitle'];
+    $page_index = $_POST['pageIndex'];
     $page_no = $_POST['pageNo'];
     $content = $_POST['content'];
     
 
-    $sql = "INSERT INTO page_content(page_title, page_no, content) VALUES('$page_title', '$page_no', '$content')";
+    $sql = "INSERT INTO page_content(page_index, page_title, page_no, content) VALUES('$page_index', '$page_title', '$page_no', '$content')";
     
     if($conn->query($sql) === true){
         echo 'Page Created Successfully';
@@ -18,6 +19,7 @@
     <h3 class="text text-primary my-3">Create New page</h3>
 
     <form action="" method="POST" class="form-group">
+        <input type="text" name="pageIndex" placeholder="Page Index" class="form-control mb-3">
         <input type="text" name="pageTitle" placeholder="Page Title" class="form-control">
         <input type="text" name="pageNo" placeholder="Page No" class="form-control my-3">
         <textarea name="content" id="" cols="30" rows="10" placeholder="Page Content" class="form-control mb-3"></textarea>

@@ -1,5 +1,5 @@
 <?php include 'header.php'; ?>
-<div class="container">
+<div class="">
     <div id="carouselId" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carouselId" data-slide-to="0" class="active"></li>
@@ -8,13 +8,13 @@
         </ol>
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-                <img src="image/slider/VAT BANGLA  BANNER 1.jpg" alt="First slide" width="100%" height="380px">
+                <img src="image/slider/VAT BANGLA NEW BANNER.png" alt="First slide" width="100%" height="380px">
                 <div class="carousel-caption d-none d-md-block">
 
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="image/slider/VAT BANGLA NEW BANNER.png" alt="Second slide" width="100%" height="380px">
+                <img src="image/slider/VAT BANGLA  BANNER 1.jpg" alt="Second slide" width="100%" height="380px">
                 <div class="carousel-caption d-none d-md-block">
 
                 </div>
@@ -41,8 +41,8 @@
 <section id="about">
     <div class="container">
         <div class="mt-3 text-center" data-aos="zoom-in">
-            <h2 class="text-primary"><span style="font-family: 'Carter One', cursive;" class="my-5">About Vat
-                    Bangla</span></h2>
+            <h2 style="color: #00B050;"><span style="font-family: 'Carter One', cursive;" class="my-5">About Vat
+                    <span style="color: #ED7D31;">Bangla</span></span></h2>
         </div>
         <div data-aos="fade-right" data-aos-duration="3000">
             <p class="text-justify px-3" style="font-family: 'Montserrat', sans-serif;"> <span> WEBNS Technology Ltd is a leading, highly innovative software house, systems integrator and technology provider, established to provide leading edge intelligent Business solutions and consulting services to businesses, organizations in order to allow the efficient and effective secure access and communication with various heterogeneous information resources and services, anytime and anywhere. </span> <br> <span class="mt-2"> WEBNS Technology Ltd. Has developed the VATBangla Software System for keeping keen eyes all type of NBR rules & regulations. A strong & experienced Software Developer team with Database Administrator are directly involved at development phase of VATBangla software System.  Two more experience VAT consultant also directly supervised our developer & validated the system to comply NBR rules. </span> </p>
@@ -52,7 +52,7 @@
 <section class="pb-3" style="background-color: #fefefe;" id="why">
     <div class="container">
         <div class="pt-3 text-center" data-aos="zoom-in-up">
-            <h2 class="text-primary pb-2"><span style="font-family: 'Carter One', cursive;">Why Vat Bangla ??</span>
+            <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">Why Vat Bangla ??</span>
             </h2>
         </div>
         <div class="row">
@@ -79,7 +79,7 @@
             <div class="row">
                 <div class="col-md-4 bg-light p-3" style="border-radius: 10px;">
                 <div data-aos="zoom-in-up">
-                <h2 class="text-primary pb-2"><span style="font-family: 'Carter One', cursive;">Request Quote</span>
+                <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">Request Quote</span>
                     </h2>
                 </div>    
                  <div  data-aos="fade-bottom" data-aos-duration="3000">
@@ -101,7 +101,7 @@
                 <div class="col-md-1"></div>
                 <div class="col-md-7 mt-4">
                     <div class="text-center" data-aos="zoom-in-up" >
-                        <h2 class="text-primary pb-2"><span style="font-family: 'Carter One', cursive;">About Request Quote</span></h2>
+                        <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">About Request Quote</span></h2>
                     </div>
                     <div class="text-left" style="font-family: 'Montserrat', sans-serif;" data-aos="fade-top" data-aos-duration="3000">
                         <!-- <p>1. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aut quo, incidunt voluptates repudiandae ex.</p>
@@ -127,7 +127,7 @@
             </div>
             <div class="col-md-4 bg-light contact-form">
                 <div class="text-center my-3"  data-aos="fade-bottom" data-aos-duration="3000">
-                    <h2 class="text-primary pb-2"><span style="font-family: 'Carter One', cursive;">Contact Us</span>
+                    <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">Contact Us</span>
                     </h2>
                 </div>
                 <form action="" class="form-group my-3">

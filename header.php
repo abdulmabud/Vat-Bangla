@@ -73,35 +73,26 @@
              
           </div>
       </nav> -->
-    <div class="container">
+    <!-- <div class="">
     <div class="row header m-0">
         <div class="col-md-2">
-            <a href="index.php"> <img src="image/final vat logo@4x-8.png" alt="" class="vatlogo"></a>
+            <a href="index.php"> <img src="image/final vat logo@4x-8.png" alt="" class="vatlogo" width="20%"></a>
         </div>
-        <div class="col-md-10 custmenu">
+        <div class="col-md-10 custmenu"> -->
 
-            <div class="row mt-3">
-                <div class="col-md-6"></div>
-                <div class="col-md-3">
-                <p class="mb-0 pl-5 mobileh"><i class="fa fa-phone-square" aria-hidden="true"></i> 880 1844 000 800</p>
-                    
-                </div>
-                <div class="col-md-3">
-                <p class="mb-1 emailh"><i class="fa fa-envelope" aria-hidden="true"></i> info@vatbangla.com </p>
-                </div>
-            </div>
+           
 
 
-            <nav class="navbar navbar-expand-md navbar-dark" style="background-color: #343538;">
+            <!-- <nav class="navbar navbar-expand-md navbar-dark" style="background-color: #343538;"> -->
                 <!-- <a class="navbar-brand" href="#">Navbar</a> -->
-                <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse"
+                <!-- <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse"
                     data-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false"
                     aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span></button>
-                <div class="collapse navbar-collapse" id="collapsibleNavId" style="background-color: #25405b;;">
-                    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                <div class="collapse navbar-collapse" id="collapsibleNavId" style="background-color: #fff;">
+                    <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
 
                         <li class="nav-item">
-                            <a class="nav-link text-light smenu " href="#about">About</a>
+                            <a class="nav-link smenu " href="#about">About</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-light" href="#why">Why Vat Bangla</a>
@@ -109,13 +100,6 @@
 
                         <li class="nav-item">
                             <a class="nav-link text-light dmenu1 " href="#quote">Request Quote</a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link text-light smenu " href="#">Notice Board</a>
-                        </li>
-                        <li class="nav-item ">
-                            <a class="nav-link text-light smenu " href="#">Our Client</a>
                         </li>
                         <li class="nav-item ">
                             <a class="nav-link text-light dmenu2 " href="user-manual.php">User Manual</a>
@@ -132,5 +116,58 @@
             </nav>
         </div>
     </div>
-    </div>
+    </div> -->
+
+
+<div>
+    <nav class="navbar navbar-expand-sm navbar-light bg-light">
+        <div class="container">
+        <a class="navbar-brand" href="../vatbangla2" style="width: 15%;">
+            <img src="image/final vat logo@4x-8.png" alt="" width="100%">
+        </a>
+        <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
+            aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="collapsibleNavId">
+            <ul class="navbar-nav ml-auto mt-2 mt-lg-0" style="float:none;">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Home</a>
+                </li>
+                
+                <li class="nav-item">
+                      <a class="nav-link" href="#about">About</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="#why">Why Vat Bangla</a>
+                  </li>
+                  
+                  <li class="nav-item ">
+                      <a class="nav-link" href="#">Request Free Quote</a>
+                  </li>
+   
+                  <li class="nav-item">
+                      <a class="nav-link" href="#">Our Client</a>
+                  </li>
+
+                  <li class="nav-item ">
+                      <a class="nav-link" href="#contact-us">Contact Us</a>
+                  </li>
+                  <li class="nav-item ">
+                      <a class="nav-link" href="http://118.67.215.114:7001/ords/f?p=109">Log In</a>
+                  </li>
+                <!-- <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownId">
+                        <a class="dropdown-item" href="#">Action 1</a>
+                        <a class="dropdown-item" href="#">Action 2</a>
+                    </div>
+                </li> -->
+            </ul>
+            
+        </div>
+        </div>
+        
+    </nav>
+</div>
     
