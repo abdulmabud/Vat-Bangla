@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="./css/custom.css">
     <style>
 
     </style>
@@ -122,7 +122,7 @@
 <div>
     <nav class="navbar navbar-expand-sm navbar-light bg-light">
         <div class="container">
-        <a class="navbar-brand" href="../vatbangla2" style="width: 15%;">
+        <a class="navbar-brand" href="/vatbangla2" style="width: 15%;">
             <img src="image/final vat logo@4x-8.png" alt="" width="100%">
         </a>
         <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
@@ -132,7 +132,7 @@
         <div class="collapse navbar-collapse" id="collapsibleNavId">
             <ul class="navbar-nav ml-auto mt-2 mt-lg-0" style="float:none;">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Home</a>
+                    <a class="nav-link" href="/vatbangla2">Home</a>
                 </li>
                 
                 <li class="nav-item">

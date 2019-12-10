@@ -36,12 +36,12 @@ if(isset($_GET['sl'])){
 }
 ?>
 <div class="text-center">
-    <h3 class="text text-primary my-3">Create New page</h3>
+    <h3 class="text text-primary my-3">Edit page</h3>
 
     <form action="" method="POST" class="form-group">
         <input type="hidden" name="id" value="<?php echo $row['id']; ?>">
-        <input type="text" name="pageTitle" value="<?php echo $row['page_title']; ?>" class="form-control mb-3">
-        <input type="text" name="pageIndex" value="<?php echo $row['page_index']; ?>" class="form-control">
+        <input type="text" name="pageIndex" value="<?php echo $row['page_index']; ?>" class="form-control mb-3">
+        <input type="text" name="pageTitle" value="<?php echo $row['page_title']; ?>" class="form-control">
         <input type="text" name="pageNo" value="<?php echo $row['page_no']; ?>" class="form-control my-3">
         <textarea name="content" id="" cols="30" rows="10" class="form-control mb-3"><?php echo $row['content']; ?></textarea>
         <input type="submit" value="Update Page" name="updatePage"class="btn btn-primary btn-block w-50 m-auto">

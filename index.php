@@ -3,7 +3,7 @@
     <div id="carouselId" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carouselId" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselId" data-slide-to="1"></li>
+            <!-- <li data-target="#carouselId" data-slide-to="1"></li> -->
             <!--<li data-target="#carouselId" data-slide-to="2"></li>-->
         </ol>
         <div class="carousel-inner" role="listbox">
@@ -13,12 +13,12 @@
 
                 </div>
             </div>
-            <div class="carousel-item">
+            <!-- <div class="carousel-item">
                 <img src="image/slider/VAT BANGLA  BANNER 1.jpg" alt="Second slide" width="100%" height="380px">
                 <div class="carousel-caption d-none d-md-block">
 
                 </div>
-            </div>
+            </div> -->
             <!--<div class="carousel-item">-->
             <!--    <img src="image/slider/VAT BANGLA  BANNER 1.jpg" alt="Third slide" width="100%" height="380px">-->
             <!--    <div class="carousel-caption d-none d-md-block">-->
@@ -28,31 +28,43 @@
 
 
         </div>
-        <a class="carousel-control-prev" href="#carouselId" role="button" data-slide="prev">
+        <!-- <a class="carousel-control-prev" href="#carouselId" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
         </a>
         <a class="carousel-control-next" href="#carouselId" role="button" data-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
-        </a>
+        </a> -->
     </div>
 </div>
 <section id="about">
     <div class="container">
         <div class="mt-3 text-center" data-aos="zoom-in">
-            <h2 style="color: #00B050;"><span style="font-family: 'Carter One', cursive;" class="my-5">About Vat
-                    <span style="color: #ED7D31;">Bangla</span></span></h2>
+            <h2 style="color: #00B050;"><span style="font-family: 'Carter One', cursive;" class="my-5">
+             About 
+             <span style="color: #ED7D31;">   Vat </span>
+                    Bangla
+                </span></h2>
         </div>
         <div data-aos="fade-right" data-aos-duration="3000">
-            <p class="text-justify px-3" style="font-family: 'Montserrat', sans-serif;"> <span> WEBNS Technology Ltd is a leading, highly innovative software house, systems integrator and technology provider, established to provide leading edge intelligent Business solutions and consulting services to businesses, organizations in order to allow the efficient and effective secure access and communication with various heterogeneous information resources and services, anytime and anywhere. </span> <br> <span class="mt-2"> WEBNS Technology Ltd. Has developed the VATBangla Software System for keeping keen eyes all type of NBR rules & regulations. A strong & experienced Software Developer team with Database Administrator are directly involved at development phase of VATBangla software System.  Two more experience VAT consultant also directly supervised our developer & validated the system to comply NBR rules. </span> </p>
+            <p class="text-justify px-3" style="font-family: 'Montserrat', sans-serif;"> <span> WEBNS Technology Ltd is
+                    a leading, highly innovative software house, systems integrator and technology provider, established
+                    to provide leading edge intelligent Business solutions and consulting services to businesses,
+                    organizations in order to allow the efficient and effective secure access and communication with
+                    various heterogeneous information resources and services, anytime and anywhere. </span> <br> <span
+                    class="mt-2"> WEBNS Technology Ltd. Has developed the VATBangla Software System for keeping keen
+                    eyes all type of NBR rules & regulations. A strong & experienced Software Developer team with
+                    Database Administrator are directly involved at development phase of VATBangla software System. Two
+                    more experience VAT consultant also directly supervised our developer & validated the system to
+                    comply NBR rules. </span> </p>
         </div>
     </div>
 </section>
 <section class="pb-3" style="background-color: #fefefe;" id="why">
     <div class="container">
         <div class="pt-3 text-center" data-aos="zoom-in-up">
-            <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">Why Vat Bangla ??</span>
+            <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">Why <span style="color: #ED7D31; "> Vat </span>  Bangla ??</span>
             </h2>
         </div>
         <div class="row">
@@ -78,32 +90,35 @@
 
             <div class="row">
                 <div class="col-md-4 bg-light p-3" style="border-radius: 10px;">
-                <div data-aos="zoom-in-up">
-                <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">Request Quote</span>
-                    </h2>
-                </div>    
-                 <div  data-aos="fade-bottom" data-aos-duration="3000">
-                     <!-- <p class="text text-warning">You are Requesting an Quote for VatBangla Application</p> -->
-                     <form action="" class="form-group" id="quoteForm">
-                        <input type="text" placeholder="Name (required)" required class="form-control">
-                        <input type="text" placeholder="Phone (required)" required class="form-control">
-                        <input type="email" placeholder="Email (required)" required class="form-control">
-                        <input type="text" placeholder="Company Name" class="form-control">
-                        <input type="text" placeholder="Company Address" class="form-control">
-                        <input type="text" placeholder="Company Website" class="form-control">
-                        <textarea name="" id="" cols="30" rows="4" class="form-control" required
-                            placeholder="Further Note *"></textarea>
-                        <input type="submit" value="Submit Request" class="btn btn-primary btn-block">
-                    </form>
-                 </div>
-                   
+                    <div data-aos="zoom-in-up">
+                        <h2 class="pb-2" style="color: #00B050;"><span
+                                style="font-family: 'Carter One', cursive;">Request Quote</span>
+                        </h2>
+                    </div>
+                    <div data-aos="fade-bottom" data-aos-duration="3000">
+                        <!-- <p class="text text-warning">You are Requesting an Quote for VatBangla Application</p> -->
+                        <form action="" class="form-group" id="quoteForm">
+                            <input type="text" placeholder="Name (required)" required class="form-control">
+                            <input type="text" placeholder="Phone (required)" required class="form-control">
+                            <input type="email" placeholder="Email (required)" required class="form-control">
+                            <input type="text" placeholder="Company Name" class="form-control">
+                            <input type="text" placeholder="Company Address" class="form-control">
+                            <input type="text" placeholder="Company Website" class="form-control">
+                            <textarea name="" id="" cols="30" rows="4" class="form-control" required
+                                placeholder="Further Note *"></textarea>
+                            <input type="submit" value="Submit Request" class="btn btn-primary btn-block">
+                        </form>
+                    </div>
+
                 </div>
                 <div class="col-md-1"></div>
                 <div class="col-md-7 mt-4">
-                    <div class="text-center" data-aos="zoom-in-up" >
-                        <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">About Request Quote</span></h2>
+                    <div class="text-center" data-aos="zoom-in-up">
+                        <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">About
+                                Request Quote</span></h2>
                     </div>
-                    <div class="text-left" style="font-family: 'Montserrat', sans-serif;" data-aos="fade-top" data-aos-duration="3000">
+                    <div class="text-left" style="font-family: 'Montserrat', sans-serif;" data-aos="fade-top"
+                        data-aos-duration="3000">
                         <!-- <p>1. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aut quo, incidunt voluptates repudiandae ex.</p>
                         <p>2. Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolore itaque eveniet? Cupiditate incidunt odit quia! Est quia aliquid blanditiis earum quasi quam, temporibus maiores consequuntur dolore labore, sapiente pariatur?</p>
                         <p>3. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi in, corrupti ducimus sit nam magnam vel et rem quidem repellendus!</p> -->
@@ -126,8 +141,9 @@
                     width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
             </div>
             <div class="col-md-4 bg-light contact-form">
-                <div class="text-center my-3"  data-aos="fade-bottom" data-aos-duration="3000">
-                    <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">Contact Us</span>
+                <div class="text-center my-3" data-aos="fade-bottom" data-aos-duration="3000">
+                    <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">Contact
+                            Us</span>
                     </h2>
                 </div>
                 <form action="" class="form-group my-3">

@@ -5,6 +5,3 @@
             filebrowserUploadUrl: "upload.php",
             filebrowserUploadMethod: "form"
         } );
-
-
-

@@ -1,6 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Arimo|Courgette|Fjalla+One|Roboto+Mono|Varela+Round&display=swap');
+
+.navbar{
+    box-shadow: 0px 0px 45px rgba(0, 0, 9, 0.35);
+}
+.sticky{
+    position: fixed;
+    width: 100%;
+    z-index: 11;
+    background-color: #F8F9FA;
+    transition: transform 2s;
+    animation-name: example;
+    animation-duration: .6s;
+}
+
+@keyframes example {
+    from { top: -100px;}
+    to {top: 0px;}
+  }
+
 .nav-link {
-    color: #00B050 !important;
-    font-family: sans-serif;
+    /* color: #00B050 !important; */
+    /* font-family: 'PT Serif', serif; */       
+    /*     font-size: 110%; */
+        
+    /*     font-family: 'Arimo', sans-serif; */
+    /*     font-family: 'Courgette', cursive; */
+    /*     font-family: 'Fjalla One', sans-serif; */
+    /*     font-family: 'Roboto Mono', monospace; */
+    font-family: 'Varela Round', sans-serif;
+
 } 
 
 
@@ -55,3 +84,4 @@ input[type="text"], input[type="email"], textarea{
 }
 
 /* end contact form  */
+
