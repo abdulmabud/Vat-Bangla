@@ -10,11 +10,11 @@
     z-index: 11;
     background-color: #F8F9FA;
     transition: transform 2s;
-    animation-name: example;
+    animation-name: myanimation;
     animation-duration: .6s;
 }
 
-@keyframes example {
+@keyframes myanimation {
     from { top: -100px;}
     to {top: 0px;}
   }
@@ -62,6 +62,19 @@ input[type="text"], input[type="email"], textarea{
 .navbar-brand {
   margin: -40px;
 } */
+
+.sDetail{
+    margin: 0 5%;
+}
+
+.sDetail p{
+    box-shadow: 0 0 4px 4px #ccc;
+    padding: 10px;
+    display: inline-block;
+    width: 46%;
+    margin-right: 30px;
+}
+
 
 
 /* css for footer */

@@ -42,8 +42,8 @@
     <div class="container">
         <div class="mt-3 text-center" data-aos="zoom-in">
             <h2 style="color: #00B050;"><span style="font-family: 'Carter One', cursive;" class="my-5">
-             About 
-             <span style="color: #ED7D31;">   Vat </span>
+                    About
+                    <span style="color: #ED7D31;"> Vat </span>
                     Bangla
                 </span></h2>
         </div>
@@ -64,7 +64,8 @@
 <section class="pb-3" style="background-color: #fefefe;" id="why">
     <div class="container">
         <div class="pt-3 text-center" data-aos="zoom-in-up">
-            <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">Why <span style="color: #ED7D31; "> Vat </span>  Bangla ??</span>
+            <h2 class="pb-2" style="color: #00B050;"><span style="font-family: 'Carter One', cursive;">Why <span
+                        style="color: #ED7D31; "> Vat </span> Bangla ??</span>
             </h2>
         </div>
         <div class="row">
@@ -73,6 +74,79 @@
             </div>
             <div class="col-md-5" data-aos="zoom-in">
                 <img src="image/why.JPG" alt="" width="100%">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="software">
+    <div class="container">
+        <div class="text-center">
+            <h2>Software Detail</h2>
+
+        </div>
+        <div class="row">
+            <div class="d-inline sDetail">
+                <h4>Modules</h4>
+                <p>Material Profile Management</p>
+                <p>Vendor Profile Management</p>
+                <p>Purchase Management</p>
+                <p>Production Management</p>
+                <p>RM/PM Inventory Management</p>
+                <p>Finished Goods Inventory Management</p>
+                <p>Debit Note Management</p>
+                <p>Credit Note Management</p>
+                <p>Auto All sub-form generation</p>
+                <p>Auto Return 9.1/9.2 Generation</p>
+                <p>NBR prescribed all type of reports</p>
+                <p>System Administration</p>
+
+            </div>
+            <div class="d-inline sDetail">
+                <h4>Form & Sub Form</h4>
+                <p>Mushak - 4.3</p>
+                <p> Mushak - 6.1, 6.2.1 – 6.10</p>
+                <p> Mushak – 9.1 & 9.2</p>
+                <p>Sub Form – Ka (Purchase Related)</p>
+                <p>Sub Form – Ka (Sales Related)</p>
+                <p>Sub Form – Kha (Purchase Related)</p>
+                <p>Sub Form – Kha(Sales Related)</p>
+                <p> Sub Form – Ga (Purchase Related)</p>
+                <p> Sub Form – Ga(Sales Related)</p>
+                <p>Sub Form – Gha</p>
+                <p> Sub Form – Omo</p>
+                <p> Sub Form – Cha</p>
+                <p>Sub Form – Chha</p>
+                <p>Chhok – Ka</p>
+                <p> Chhak – Kha</p>
+            </div>
+
+            <div class="d-inline sDetail">
+                <h4>Note Detail</h4>
+                <p>Note – Ka (1 & 2 Direct & Deemed Export Related)</p>
+                <p> Note – Ka ( 3 For exempted goods or products related)</p>
+                <p>Note – Ka ( 4 Standard for goods or products related)</p>
+                <p> Note – Ka ( 5 Fixed Rate for goods or products related)</p>
+                <p> Note – Ka ( 7 Except Standard for goods or products related)</p>
+                <p> Note – Ka (10 & 11 Zero Rate)</p>
+                <p> Note – Ka (12 & 13 Exempted)</p>
+                <p>Note – Ka (14 & 15 Standard)</p>
+                <p>Note – Ka (16 & 17 Except Standard for goods or products related)</p>
+                <p> Note – Ka (19 & 20 Non-rebatable for goods or products related)</p>
+                <p> Note – Ka (21 & 22 Non rebatable (but exempted or reducing rate)</p>
+                <p>Note – Kha (8 For retailer or wholesaler for goods or products related)</p>
+                <p> Note – Ga (6 Fixed rate for goods or products related, sales related)</p>
+                <p> Note – Ga (18 Fixed rate for goods or products related, purchase related)</p>
+                <p> Note – Gha (24 For VDS Applicable)</p>
+                <p> Note – Omo (29)</p>
+                <p> Note – Cha(30 AT)</p>
+                <p> Note – Chha(52,53,54,55,56,57,58.59.60.61,62,63)</p>
+            </div>
+
+            <div class="d-inline sDetail">
+                <h4>Repots</h4>
+                <p style="width: 112%;">Analytical Reports</p>
+                <p style="width: 112%;">Others Operational Reports</p>
             </div>
         </div>
     </div>
