@@ -66,6 +66,10 @@ input[type="text"], input[type="email"], textarea{
 .sDetail{
     margin: 0 5%;
 }
+.sDetail h3{
+    font-family: 'Carter One', cursive;
+    color: #00B050;
+}
 
 .sDetail p{
     box-shadow: 0 0 4px 4px #ccc;
@@ -73,6 +77,8 @@ input[type="text"], input[type="email"], textarea{
     display: inline-block;
     width: 46%;
     margin-right: 30px;
+    border-radius: 12px;
+    padding-left: 20px !important;
 }
 
 

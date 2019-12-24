@@ -82,12 +82,12 @@
 <section id="software">
     <div class="container">
         <div class="text-center">
-            <h2>Software Detail</h2>
+          
 
         </div>
         <div class="row">
             <div class="d-inline sDetail">
-                <h4>Modules</h4>
+                <h3 class="text-center my-4">Software Modules</h3>
                 <p>Material Profile Management</p>
                 <p>Vendor Profile Management</p>
                 <p>Purchase Management</p>
@@ -102,8 +102,8 @@
                 <p>System Administration</p>
 
             </div>
-            <div class="d-inline sDetail">
-                <h4>Form & Sub Form</h4>
+            <div class="d-inline sDetail  my-3">
+                <h3 class="text-center my-4">Form & Sub Form</h3>
                 <p>Mushak - 4.3</p>
                 <p> Mushak - 6.1, 6.2.1 – 6.10</p>
                 <p> Mushak – 9.1 & 9.2</p>
@@ -121,8 +121,8 @@
                 <p> Chhak – Kha</p>
             </div>
 
-            <div class="d-inline sDetail">
-                <h4>Note Detail</h4>
+            <div class="d-inline sDetail  my-3">
+                <h3 class="text-center my-4">Note Detail</h3>
                 <p>Note – Ka (1 & 2 Direct & Deemed Export Related)</p>
                 <p> Note – Ka ( 3 For exempted goods or products related)</p>
                 <p>Note – Ka ( 4 Standard for goods or products related)</p>
@@ -143,8 +143,8 @@
                 <p> Note – Chha(52,53,54,55,56,57,58.59.60.61,62,63)</p>
             </div>
 
-            <div class="d-inline sDetail">
-                <h4>Repots</h4>
+            <div class="d-inline sDetail  my-3">
+                <h3 class="text-center my-4">Repots</h3>
                 <p style="width: 112%;">Analytical Reports</p>
                 <p style="width: 112%;">Others Operational Reports</p>
             </div>
